@@ -4,10 +4,8 @@ Welcome to the "Thala For a Reason" web page, that allows users to enter either 
 ## Features
 
 - **Input Validation:** Enter a string with exactly 7 characters or a number whose digit sum is 7.
-- **Audio Experience:** Enjoy an audio journey with "ThalaBGM.mp3" when the result is positive.
+- **Audio Experience:** Enjoy an audio journey with "ThalaBGM" when the result is positive.
 - **Responsive Design:** Seamlessly view the page on different devices for an optimal user experience.
-- **Aesthetic Appeal:** Immerse yourself in the background image and centered container design.
-- **Maximum Width:** Container width set to a maximum of 800px for readability and responsiveness.
 
 ## Usage
 
