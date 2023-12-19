@@ -1,7 +1,6 @@
 # Thala For a Reason Web Page
 
-Welcome to the "Thala For a Reason" web page, that allows users to enter either a string or a number. It checks if the input is a string with exactly 7 characters or a number whose digit sum is 7, than it displays result along with an audio playback of "Thala BGM".
-
+Welcome to the "Thala For a Reason" web page, that allows users to enter either a string or a number. It checks whether the input is a string with exactly 7 characters or a number whose digit sum is 7. If the conditions are met, it displays the result along with an audio playback of "Thala BGM".
 ## Features
 
 - **Input Validation:** Enter a string with exactly 7 characters or a number whose digit sum is 7.
